@@ -1,0 +1,6 @@
+{
+  "name": "AppstoreRadar",
+  "description": "Buscador de videojuegos y verificador automático de publicación en Amazon Appstore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
